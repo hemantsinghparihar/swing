@@ -1,0 +1,39 @@
+.foot{
+    border: 1px solid black;
+    width: 100%;
+    height: 20%;
+    background-color: rgb(103, 103, 203);
+    color: rgb(250, 250, 250);
+}
+
+.foot-content{
+    /* border: 1px solid black; */
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 80%;
+    display: flex;
+    flex: 3fr 1fr 1fr;
+}
+.about{
+    /* border: 1px solid black; */
+    width: 40%;
+    height: 100%;
+    padding:1rem 2rem;
+}
+.black-heading{
+    color: black;
+}
+.contact{
+    /* border: 1px solid black; */
+    width: 30%;
+    height: 100%;
+    padding:1rem 2rem;
+}
+
+.follow{
+    /* border: 1px solid black; */
+    width: 30%;
+    height: 100%;
+    padding:1rem 2rem;
+}
